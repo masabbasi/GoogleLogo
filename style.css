@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    text-align: center;
+    background-color: #d4d4d4;
+    margin-top: 40px;
+}
+
+.let {
+    margin-left: -27px;
+    font-size: 120px;
+    font-weight: 600;
+    display: inline-block;
+    text-shadow: 0 1px 0 #d8d8d8, 0 2px 0 #babdbb59, 0 -1px 0 #9da1a2, 0 -2px 0 #c1c0bd8a, 1px 0 0 #bfb8b8, 2px 0 0 #b9b0b0, -1px 0 0 #ccbfbf, -2px 0 0 #abababa3, -3px 0 3px rgb(0 0 0 / 46%), 0 -3px 3px rgb(0 0 0 / 31%);
+}
+
+.g {
+    color: #2773f4;
+}
+
+.o {
+    color: #dd4937;
+}
+
+.oo {
+    color: #ffc505;
+}
+
+.l {
+    color: #009a57;
+}
+
+.e {
+    color: #dd4937;
+    -webkit-transform: rotate(-40deg);
+}
